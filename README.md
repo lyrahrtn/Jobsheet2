@@ -5,4 +5,4 @@
 ![alt text](https://github.com/lyrahrtn/Jobsheet2/blob/master/latihan4.PNG)
 ![alt text](https://github.com/lyrahrtn/Jobsheet2/blob/master/praktikum bola.PNG)
 ![alt text](https://github.com/lyrahrtn/Jobsheet2/blob/master/praktikum1.PNG)
-![alt text](https://github.com/lyrahrtn/Jobsheet2/blob/master/tugas enkapsulasi.PNG)
+![alt text](https://github.com/lyrahrtn/Jobsheet2/blob/master/tugas enkapsulasi.PNG);
